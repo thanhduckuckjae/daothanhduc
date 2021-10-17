@@ -12,7 +12,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/AnhDaiDien_2.png"
 
 [Params]
-  subtitle = "CÔNG TY TRÁCH NHIỆM HỮU HẠN ĐỨC TRANG" # Subtitle of your site
+  subtitle = "ĐÀO THÀNH ĐỨC CV" # Subtitle of your site
   description = "Thanh Duc Dao's Personal blog about everything" # Description of your site
   opengraph = true
   twitter_cards = false
